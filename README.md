@@ -69,3 +69,9 @@ The models used are:
 
 ## Model Performance
 
+The Random Forest model far outperformed the other approaches on the test and validation sets
+
+- **Linear Regression**: MAE 20.3
+- **Ridge Regression**: MAE 19.7
+- **Lasso Regression**: MAE 20.3
+- **Random Forest**: MAE 12.6
